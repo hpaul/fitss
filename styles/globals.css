@@ -14,3 +14,8 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+html {
+  --main-color: #1266C5;
+}

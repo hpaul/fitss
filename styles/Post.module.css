@@ -1,0 +1,9 @@
+.title {
+  border-bottom: 1px solid #d3d3d3;
+}
+
+.content {
+  max-width: 600px;
+  padding: 1.5em;
+  line-height: 2;
+}
